@@ -188,5 +188,6 @@
     "**/.*",
     "**/.vscode",
     "json.hpp"
-  ]
+  ],
+  "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools"
 }
